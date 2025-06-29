@@ -1,0 +1,2 @@
+# purec
+pure c
